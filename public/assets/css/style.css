@@ -1,0 +1,48 @@
+/*
+ * Base structure
+ */
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+}
+
+/*
+ * Header
+ */
+.masthead {
+    margin-bottom: 2rem !important;
+}
+
+.masthead a {
+    color: black;
+    text-decoration: none;
+}
+
+/*
+ * Footer
+ */
+.mastfoot {
+    color: rgba(28, 33, 41, 0.8);
+}
+
+/*
+* Contact Page
+*/
+.addcontact {
+    cursor: pointer;
+    color: #cd2927;
+}
+.addcontact:hover {
+    color: #ff9492;
+}
+
+/*
+* Add Contact page
+*/
+.error_message {
+    color: red;
+}
