@@ -1,7 +1,7 @@
 ## Phonebook Setting
 
--   Create a new database and import the query (data.sql) to your database
--   data.sql is located in "phonebook/data.sql"
+-   Create a new database and import the query (db_phonebook.sql) to your database
+-   db_phonebook.sql is located in "phonebook/db_phonebook.sql"
 -   ## Modify your laravel .env file
     -   Change DB_DATABASE to your database name
     -   Change DB_USERNAME to your database username
